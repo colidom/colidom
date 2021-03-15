@@ -1,11 +1,11 @@
-### Hola👋, soy Carlos
+# Hola, soy Carlos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colidom&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colidom&layout=compact)](https://github.com/colidom/github-readme-stats)
 
 - 🔭 I’m currently working on a personal shop buildt with Django and React frameworks.
 - 🌱 I’m currently learning Django, DjangoRestFramework, JS, Postgresql 🤔💡📙📗📘. 
 - 📫 How to reach me: `carlos.oliva.dom@gmail.com`
-
 <!--
 **colidom/colidom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
