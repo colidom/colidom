@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on a personal shop buildt with Django and React frameworks.
 - 🌱 I’m currently learning Django, DjangoRestFramework, JS, Postgresql 🤔💡📙📗📘. 
-- 📫 How to reach me: `carlos.oliva.dom@gmail.com`
+- 📫 How to reach me: [carlos.oliva.dom@gmail.com](mailto:carlos.oliva.dom@gmail.com)
+
 <!--
 **colidom/colidom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
