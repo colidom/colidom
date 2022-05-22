@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a personal shop buildt with Django and React frameworks.
 - 🌱 I’m currently learning ![python](img/python.svg)![python](img/django.svg)![python](img/js.svg) ![python](img/php.svg) 🤔💡📙📗📘.
-- 📫 How to reach me: [colidom@gmail.com](mailto:colidom@gmail.com)
+- 📫 How to reach me: [colidom@outlook.com](mailto:colidom@outlook.com)
 
 <!--
 **colidom/colidom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
