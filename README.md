@@ -1,4 +1,4 @@
-# Hola, soy Carlos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hola, soy Carlos! <img src="img/wave.gif" width="30px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colidom&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colidom&layout=compact)](https://github.com/colidom/github-readme-stats)
 
