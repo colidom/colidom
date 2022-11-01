@@ -1,5 +1,9 @@
-# Hola, soy Carlos! <img src="img/wave.gif" width="30px">
-<h3 align="left">A passionate developer from Canary Islands</h3>
+
+<p align="center" width="300">
+    <img align="center" width="150" src="img/avatar.png" />
+    <h3 align="center">¡Hola, soy Carlos!<img width="30px" src="img/wave.gif"></h3>
+    <h5 align="center">A passionate developer👨🏻‍💻 from Canary Islands</h5>
+</p>
 
 - 💖 I am passionate about technology in general with the firm objective of learning and improving myself every day both in the workplace and personally.
 - 🔭 I’m currently working as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
