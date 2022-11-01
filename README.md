@@ -17,7 +17,7 @@
 <h5 align="left">Contact with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/cjod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cjod" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/colidom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="colidom" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11397032/colidom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="colidom" height="30" width="40" /></a>
 </p>
 
 <h5 align="left">Languages and tools:</h5>
