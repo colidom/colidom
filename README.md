@@ -1,4 +1,3 @@
-
 <p align="center" width="300">
     <img align="center" width="150" src="img/avatar.png" />
     <h3 align="center">¡Hola, soy Carlos!<img width="30px" src="img/wave.gif"></h3>
@@ -9,6 +8,7 @@
 - 🔭 I’m currently working as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
 - 🌱 I am currently improving my skills as a Front-end developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
 - 📫 How to reach me: [colidom@outlook.com](mailto:colidom@outlook.com)
+
 ---
 
 ![colidom's Stats](https://github-readme-stats.vercel.app/api?username=colidom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=es)
@@ -34,7 +34,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
 
 <!-- Views counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colidom&label=Profile%20views&color=0e75b6&style=flat" alt="colidom" /> </p>
