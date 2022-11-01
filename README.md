@@ -7,7 +7,7 @@
 
 - 💖 I am passionate about technology in general with the firm objective of learning and improving myself every day both in the workplace and personally.
 - 🔭 I’m currently working as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
-- 🌱 I am currently improving my skills as a Front-end developer with technologies such as JavaScript, Jquery, HTML5, CSS and in the Back-end with PHP.
+- 🌱 I am currently improving my skills as a Front-end developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
 - 📫 How to reach me: [colidom@outlook.com](mailto:colidom@outlook.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colidom&show_icons=true&locale=es)
