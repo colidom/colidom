@@ -7,7 +7,7 @@
 | <a href="https://github.com/colidom/colidom/blob/main/README.md">English</a>  | <a href="https://github.com/colidom/colidom/blob/main/README-ES.md">Español</a>|
 | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 
-**I am currently**: 
+#### 💫 I am currently:
 - 👨‍🎓 `Estudiando` un grado superior en Desarrollo de Aplicaciones Web en [IES Puerto de la Cruz - Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/).
 - 💼 `Trabajando` como desarrollador de comercio electrónico para [Prestashop](https://www.prestashop.com/) y  [Woocommerce](https://woocommerce.com/).
 - 🌱 `Mejorando` mis habilidades como Desarrollador Front-end con tecnologías como JavaScript, Jquery, HTML5, CSS3 y en el Back-end con PHP.
