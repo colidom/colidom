@@ -21,7 +21,7 @@
     <a href="https://stackoverflow.com/users/11397032/colidom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="colidom" width="40" height="30" /></a>
 </p>
 
-![colidom's Stats](https://github-readme-stats.vercel.app/api?username=colidom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=es)
+![colidom's Stats](https://github-readme-stats.vercel.app/api?username=colidom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=en)
 
 <!-- Contact -->
 <h5 align="left">Contact with me:</h5>
