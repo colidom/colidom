@@ -23,13 +23,6 @@
 
 ![colidom's Stats](https://github-readme-stats.vercel.app/api?username=colidom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=en)
 
-<!-- Contact -->
-<h5 align="left">Contact with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/cjod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cjod" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11397032/colidom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="colidom" height="30" width="40" /></a>
-</p>
-
 <h5 align="left">🛠️ Languages and tools:</h5>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
