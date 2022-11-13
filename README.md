@@ -7,7 +7,7 @@
 | <a href="https://github.com/colidom/colidom/blob/main/README.md">English</a>  | <a href="https://github.com/colidom/colidom/blob/main/README-ES.md">Español</a>|
 | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 
-#### 💫 I am currently:
+#### ✨ I am currently:
 - 👨‍🎓 `Studying` a higher degree in Web Applications Development at [IES Puerto de la Cruz - Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/).
 - 💼 `Working` as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
 - 🌱 `Improving` my skills as a Front-end Developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/11397032/colidom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="colidom" height="30" width="40" /></a>
 </p>
 
-<h5 align="left">Languages and tools:</h5>
+<h5 align="left">🛠️ Languages and tools:</h5>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 

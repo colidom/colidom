@@ -7,7 +7,7 @@
 | <a href="https://github.com/colidom/colidom/blob/main/README.md">English</a>  | <a href="https://github.com/colidom/colidom/blob/main/README-ES.md">Español</a>|
 | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 
-#### 💫 I am currently:
+#### ✨ Actualmente estoy:
 - 👨‍🎓 `Estudiando` un grado superior en Desarrollo de Aplicaciones Web en [IES Puerto de la Cruz - Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/).
 - 💼 `Trabajando` como desarrollador de comercio electrónico para [Prestashop](https://www.prestashop.com/) y  [Woocommerce](https://woocommerce.com/).
 - 🌱 `Mejorando` mis habilidades como Desarrollador Front-end con tecnologías como JavaScript, Jquery, HTML5, CSS3 y en el Back-end con PHP.
@@ -23,7 +23,7 @@
 
 ![colidom's Stats](https://github-readme-stats.vercel.app/api?username=colidom&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=es)
 
-<h5 align="left">Lenguajes y herramientas:</h5>
+<h5 align="left">🛠️ Lenguajes y herramientas:</h5>
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
