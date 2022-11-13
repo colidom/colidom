@@ -1,13 +1,13 @@
 <p align="center" width="300">
     <img align="center" width="150" src="img/avatar.png" />
     <!-- <h3 align="center">¡Hola, soy Carlos!<img width="30px" src="img/wave.gif"></h3> -->
-    <h5 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=70&lines=%C2%A1Hola%2C+soy+Carlos!%F0%9F%96%96;A+developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+from+Canary+Islands;Passionate+about+technology+in+general+with+the+firm+objective+of...;+learning+and+improving+myself+every+day+both+in+the+workplace+and+personally;I+hope+my+small+contributions+will+be+helpful+to+you%F0%9F%98%8A%E2%9C%8C%EF%B8%8F." alt="Typing SVG" /></a></h5>
+    <h5 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=70&lines=%C2%A1Hi%2C+I'm+Carlos!%F0%9F%96%96;A+developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+from+Canary+Islands;Passionate+about+technology+in+general+with+the+firm+objective+of...;+learning+and+improving+myself+every+day+both+in+the+workplace+and+personally;I+hope+my+small+contributions+will+be+helpful+to+you%F0%9F%98%8A%E2%9C%8C%EF%B8%8F." alt="Typing SVG" /></a></h5>
 </p>
 
 | <a href="https://github.com/colidom/colidom/blob/main/README.md">English</a>  | <a href="https://github.com/colidom/colidom/blob/main/README-ES.md">Español</a>|
 | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 
-#### ✨ I am currently:
+#### ✨ I'm currently:
 - 👨‍🎓 `Studying` a higher degree in Web Applications Development at [IES Puerto de la Cruz - Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/).
 - 💼 `Working` as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
 - 🌱 `Improving` my skills as a Front-end Developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
