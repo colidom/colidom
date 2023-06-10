@@ -45,7 +45,7 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="/img/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="/img/git.svg" alt="git" width="40" height="40"/></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="/img/mysql.svg" alt="mysql" width="40" height="40"/></a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="/img/getpostman.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="/img/getpostman.svg" alt="postman" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="/img/linux.svg" alt="linux" width="40" height="40"/></a> 
 </p>
 
