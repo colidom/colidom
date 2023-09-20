@@ -13,7 +13,9 @@
 
 </div>
 
--   👨‍🎓 `Studying` a higher degree in Web Applications Development at <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a>.
+-   👨‍🎓 `Studying` a higher degree in Web Applications Development (DAW) at:
+    - <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º course COMPLETED ✅**
+    - <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º course IN PROGRESS ⚠**
 -   💼 `Working` as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
 -   🌱 `Improving` my skills as a Front-end Developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
 
