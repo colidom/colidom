@@ -1,5 +1,5 @@
 <p align="center" width="300">
-    <img align="center" width="150" src="img/avatar.png" />
+    <!-- <img align="center" width="150" src="img/avatar.pngs" /> -->
     <!-- <h3 align="center">¡Hola, soy Carlos!<img width="30px" src="img/wave.gif"></h3> -->
     <h5 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=70&lines=%C2%A1Hola%2C+soy+Carlos!%F0%9F%96%96;Un+desarrollador%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+de+las+Islas+Canarias;Apasionado+de+la+tecnolog%C3%ADa+en+general+con+el+firme+objetivo+de...;+aprender+y+mejorar+cada+d%C3%ADa+tanto+en+el+trabajo+como+en+lo+personal;Espero+que+mis+peque%C3%B1as+aportaciones+te+sean+%C3%BAtiles%F0%9F%98%8A%E2%9C%8C%EF%B8%8F." alt="Typing SVG" /></a></h5>
 </p>
