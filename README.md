@@ -13,8 +13,10 @@
 
 </div>
 
--   👨‍🎓 `Estudiando` un grado superior en Desarrollo de Aplicaciones Web en [IES Puerto de la Cruz - Telesforo Bravo](https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/).
--   💼 `Trabajando` como desarrollador de comercio electrónico para [Prestashop](https://www.prestashop.com/) y [Woocommerce](https://woocommerce.com/).
+-   👨‍🎓 `Estudiando` un grado superior en Desarrollo de Aplicaciones Web (DAW) en:
+    - <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º curso COMPLETADO ✅**
+    - <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º curso EN CURSO ⚠**
+-   💼 `Trabajando` como desarrollador e-commerce en plataformas [Prestashop](https://www.prestashop.com/) y [Woocommerce](https://woocommerce.com/).
 -   🌱 `Mejorando` mis habilidades como Desarrollador Front-end con tecnologías como JavaScript, Jquery, HTML5, CSS3 y en el Back-end con PHP.
 
 <br>
