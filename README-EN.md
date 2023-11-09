@@ -14,8 +14,8 @@
 </div>
 
 -   👨‍🎓 `Studying` a higher degree in Web Applications Development (DAW) at:
-    - <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º course COMPLETED ✅**
-    - <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º course IN PROGRESS ⚠**
+    -   <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º course COMPLETED ✅**
+    -   <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º course IN PROGRESS ⚠**
 -   💼 `Working` as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
 -   🌱 `Improving` my skills as a Front-end Developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
 
@@ -50,6 +50,26 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="/img/getpostman.svg" alt="postman" width="40" height="40"/></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="/img/linux.svg" alt="linux" width="40" height="40"/></a> 
 </p>
+
+<div align="center">
+
+  <a href="https://www.codewars.com/users/colidom" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+  </a>
+
+  <a href="https://www.coursera.org/user/229a03de2afaabc8c61d26243e372299" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  </a>
+
+  <a href="https://www.sololearn.com/profile/13527631" target="_blank">
+    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
+  </a>
+
+  <a href="https://www.udemy.com/user/carlos-javier-oliva-dominguez/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  </a>
+  
+</div>
 
 ---
 
