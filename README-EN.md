@@ -75,3 +75,7 @@
 
 <!-- Views counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=colidom&label=Profile%20views&color=0e75b6&style=flat" alt="colidom" /> </p>
+
+ <a href="https://wakatime.com/@colidom" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=colidom&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  </a>
