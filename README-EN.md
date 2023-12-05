@@ -16,8 +16,9 @@
 -   👨‍🎓 `Studying` a higher degree in Web Applications Development (DAW) at:
     -   <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º course COMPLETED ✅**
     -   <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º course IN PROGRESS ⚠**
--   💼 `Working` as an E-commerce Developer for [Prestashop](https://www.prestashop.com/) and [Woocommerce](https://woocommerce.com/).
--   🌱 `Improving` my skills as a Front-end Developer with technologies such as JavaScript, Jquery, HTML5, CSS3 and in the Back-end with PHP.
+-   💼 `Working` as a web developer with technologies like Spring MVC, JSP and Hibernate in project for client EDP-Viesgo! Enjoying every moment building robust and efficient web applications with these technologies. Excited for what is to come in this web development journey! 🚀✨
+
+-   🌱 `Improving` my skills as Front-end Developer with technologies like JavaScript, Hibernate, JSP, Jquery, HTML5, CSS3 and in the Back-end with PHP and Java.
 
 <br>
 <!-- Contact -->

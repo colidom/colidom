@@ -16,8 +16,9 @@
 -   👨‍🎓 `Estudiando` un grado superior en Desarrollo de Aplicaciones Web (DAW) en:
     -   <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º curso COMPLETADO ✅**
     -   <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º curso EN CURSO ⚠**
--   💼 `Trabajando` como desarrollador e-commerce en plataformas [Prestashop](https://www.prestashop.com/) y [Woocommerce](https://woocommerce.com/).
--   🌱 `Mejorando` mis habilidades como Desarrollador Front-end con tecnologías como JavaScript, Jquery, HTML5, CSS3 y en el Back-end con PHP.
+-   💼 `Trabajando` como desarrollador web con tecnologías como Spring MVC, JSP e Hibernate en proyecto para el cliente EDP-Viesgo! Disfrutando cada momento construyendo aplicaciones web robustas y eficientes con estas tecnologías. ¡Emocionado por lo que está por venir en este viaje de desarrollo web! 🚀✨
+
+-   🌱 `Mejorando` mis habilidades como Desarrollador Front-end con tecnologías como JavaScript, Hibernate, JSP, Jquery, HTML5, CSS3 y en el Back-end con PHP y Java.
 
 <br>
 <!-- Contact -->
