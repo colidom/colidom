@@ -18,7 +18,7 @@
     -   <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º course IN PROGRESS ⚠**
 -   💼 `Working` as a web developer with technologies like Spring MVC, JSP and Hibernate in project for client EDP-Viesgo! Enjoying every moment building robust and efficient web applications with these technologies. Excited for what is to come in this web development journey! 🚀✨
 
--   🌱 `Improving` my skills as a Full Stack Developer with technologies like Java, PHP, JavaScript, Hibernate, JSP, Jquery, HTML5, CSS3.
+-   🌱 `Improving` my skills as a Full Stack Developer with technologies like Java, PHP, JavaScript, Hibernate, JSP, MySQL, Jquery, HTML5, CSS3.
 
 <br>
 <!-- Contact -->
