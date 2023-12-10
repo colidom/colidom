@@ -9,7 +9,7 @@
 
 <div align="center">
 
-#### ✨ Actualmente estoy:
+#### ✨ Actualmente estoy...
 
 </div>
 
