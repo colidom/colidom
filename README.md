@@ -40,12 +40,17 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="/img/python.svg" alt="python" width="40" height="40"/></a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="/img/php.svg" alt="php" width="40" height="40"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="/img/javascript.svg" alt="javascript" width="40" height="40"/></a> 
+    <a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="/img/java.svg" alt="java" width="40" height="40"/></a> 
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="/img/laravel.svg" alt="laravel" width="40" height="40"/></a> 
+    <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="/img/symfony.svg" alt="symfony" width="40" height="40"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="/img/django.svg" alt="django" width="40" height="40"/></a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="/img/flask.svg" alt="flask" width="40" height="40"/></a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="/img/html5.svg" alt="html5" width="40" height="40"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="/img/css3.svg" alt="css3" width="40" height="40"/></a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="/img/sass.svg" alt="sass" width="40" height="40"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="/img/django.svg" alt="django" width="40" height="40"/></a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="/img/flask.svg" alt="flask" width="40" height="40"/></a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="/img/jquery.svg" alt="sass" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="/img/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="/img/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="/img/git.svg" alt="git" width="40" height="40"/></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="/img/mysql.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="/img/getpostman.svg" alt="postman" width="40" height="40"/></a>
