@@ -48,7 +48,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="/img/html5.svg" alt="html5" width="40" height="40"/></a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="/img/css3.svg" alt="css3" width="40" height="40"/></a> 
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="/img/sass.svg" alt="sass" width="40" height="40"/></a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="/img/jquery.svg" alt="sass" width="40" height="40"/></a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="/img/jquery.svg" alt="jquery" width="40" height="40"/></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="/img/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="/img/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="/img/git.svg" alt="git" width="40" height="40"/></a> 
