@@ -13,12 +13,16 @@
 
 </div>
 
--   👨‍🎓 `Cursando` un grado superior en Desarrollo de Aplicaciones Web (DAW) en:
-    -   <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º curso COMPLETADO ✅**
-    -   <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º curso COMPLETADO ✅**
--   💼 `Trabajando` como desarrollador web con tecnologías como Spring MVC, JSP e Hibernate en proyecto para el cliente EDP-Viesgo! Disfrutando cada momento construyendo aplicaciones web robustas y eficientes con estas tecnologías. ¡Emocionado por lo que está por venir en este viaje de desarrollo web! 🚀✨
-
--   🌱 `Mejorando` mis habilidades como Desarrollador Full Stack con tecnologías como Java, PHP, JavaScript, Hibernate, MySQL, JSP, Jquery, HTML5, CSS3.
+<div align="justify">
+    <p>👨‍🎓 <strong>Cursando</strong> una serie de formaciones avanzadas en PHP y el framework Laravel en la plataforma 
+        <a href="https://laracasts.com/" target="_blank">Laracasts</a> guiado por el experto 
+        <a href="https://laracasts.com/browse/instructors/JeffreyWay" target="_blank">JeffreyWay</a>.
+    </p>
+    <p>💼<strong>Trabajando</strong> como desarrollador IoT con tecnologías como ThingWorx Composer, JavaScript y MQTT en un proyecto para Vodafone y el Ministerio de Igualdad! Disfrutando cada momento creando soluciones IoT innovadoras y eficientes con estas tecnologías. ¡Emocionado por lo que está por venir en este emocionante viaje en el mundo del IoT! 🚀✨.
+    </p>
+    <p>🌱 <strong>Mejorando</strong> mis habilidades como Desarrollador Full Stack con tecnologías como PHP, JavaScript, MySQL, Laravel, HTML5, CSS3.
+    </p>
+</div>
 
 <br>
 <!-- Contact -->

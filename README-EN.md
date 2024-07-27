@@ -13,12 +13,16 @@
 
 </div>
 
--   👨‍🎓 `Studying` a higher degree in Web Applications Development (DAW) at:
-    -   <a href="https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/" target="_blank">IES Puerto de la Cruz - Telesforo Bravo</a> **1º course COMPLETED ✅**
-    -   <a href="https://www.educa2.madrid.org/web/centro.ies.lopedevega.madrid" target="_blank">IES Lope de Vega</a> **2º course COMPLETED ✅**
--   💼 `Working` as a web developer with technologies like Spring MVC, JSP and Hibernate in project for client EDP-Viesgo! Enjoying every moment building robust and efficient web applications with these technologies. Excited for what is to come in this web development journey! 🚀✨
-
--   🌱 `Improving` my skills as a Full Stack Developer with technologies like Java, PHP, JavaScript, Hibernate, JSP, MySQL, Jquery, HTML5, CSS3.
+<div align="justify">
+    <p>👨‍🎓 <strong>Enrolled</strong> in a series of advanced PHP and Laravel framework courses on the 
+        <a href="https://laracasts.com/" target="_blank">Laracasts</a> platform, guided by expert 
+        <a href="https://laracasts.com/browse/instructors/JeffreyWay" target="_blank">JeffreyWay</a>.
+    </p>
+    <p>💼 <strong>Working</strong> as an IoT developer with technologies such as ThingWorx Composer, JavaScript, and MQTT on a project for Vodafone and the Ministry of Equality! Enjoying every moment creating innovative and efficient IoT solutions with these technologies. Excited about what's to come on this thrilling journey in the world of IoT! 🚀✨.
+    </p>
+    <p>🌱 <strong>Improving</strong> my skills as a Full Stack Developer with technologies such as PHP, JavaScript, MySQL, Laravel, HTML5, CSS3.
+    </p>
+</div>
 
 <br>
 <!-- Contact -->
