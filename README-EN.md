@@ -44,8 +44,7 @@
 <h5 align="center">🛠️ Languages and tools:</h5>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="/img/python.svg" alt="python" width="40" height="40"/></a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="/img/php.svg" alt="php" width="60"/></a> 
-    <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="/img/composer.svg" alt="composer" width="40" height="40"/></a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="/img/php.svg" alt="php" width="60"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="/img/javascript.svg" alt="javascript" width="40" height="40"/></a> 
     <a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="/img/java.svg" alt="java" width="40" height="40"/></a> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="/img/laravel.svg" alt="laravel" width="40" height="40"/></a> 
@@ -61,6 +60,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="/img/git.svg" alt="git" width="40" height="40"/></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="/img/mysql.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="/img/getpostman.svg" alt="postman" width="40" height="40"/></a>
+    <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="/img/composer.svg" alt="composer" width="40" height="40"/></a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="/img/linux.svg" alt="linux" width="40" height="40"/></a> 
 </p>
 
