@@ -18,9 +18,11 @@
         <a href="https://laracasts.com/" target="_blank">Laracasts</a> platform, guided by expert 
         <a href="https://laracasts.com/browse/instructors/JeffreyWay" target="_blank">JeffreyWay</a>.
     </p>
-    <p>💼 <strong>Working</strong> as an IoT developer with technologies such as ThingWorx Composer, JavaScript, and MQTT on a project for Vodafone and the Ministry of Equality! Enjoying every moment creating innovative and efficient IoT solutions with these technologies. Excited about what's to come on this thrilling journey in the world of IoT! 🚀✨.
+    <p>
+        💼 <strong>Working</strong> as an IoT developer with technologies such as ThingWorx Composer, JavaScript, and MQTT on Vodafone projects for the Ministry of Equality and the Cruz Roja. Enjoying every moment creating innovative and efficient IoT solutions with these technologies. Excited for what's to come on this thrilling journey in the world of IoT! 🚀✨
     </p>
-    <p>🌱 <strong>Improving</strong> my skills as a Full Stack Developer with technologies such as PHP, JavaScript, MySQL, Laravel, HTML5, CSS3.
+    <p>
+        🌱 <strong>Improving</strong> my skills as a Full Stack Developer with technologies such as PHP, JavaScript, MySQL, Laravel, HTML5, and CSS3.
     </p>
 </div>
 
