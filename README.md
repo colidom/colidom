@@ -14,10 +14,6 @@
 </div>
 
 <div align="justify">
-    <p>👨‍🎓 <strong>Cursando</strong> una serie de formaciones avanzadas en PHP y el framework Laravel en la plataforma 
-        <a href="https://laracasts.com/" target="_blank">Laracasts</a> guiado por el experto 
-        <a href="https://laracasts.com/browse/instructors/JeffreyWay" target="_blank">Jeffrey Way</a>.
-    </p>
     <p>
         💼 <strong>Trabajando</strong> como desarrollador IoT con tecnologías como ThingWorx Composer, JavaScript y MQTT en proyectos de Vodafone para el Ministerio de Igualdad y Cruz Roja. Disfrutando cada momento creando soluciones IoT innovadoras y eficientes con estas tecnologías. ¡Emocionado por lo que está por venir en este emocionante viaje en el mundo del IoT! 🚀✨.
     </p>
